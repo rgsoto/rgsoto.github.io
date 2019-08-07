@@ -12,7 +12,22 @@ body {
   font-family: helvetica, arial, sans;
 }
 
+h2 ~ p {
+  font-size: 0.8em;
+  font-style: italic;
+  margin: 1em auto 0;
+  max-width: 70%;
+  text-align: center;
+}
+
 /* HEADER STYLES */
+.header {
+  background-color: #aaa;
+  height: 300px;
+  position: relative;
+  width: 100%;
+}
+
 .header-nav {
   float: right;
   padding: 5.5vh 60px 0 0;
@@ -23,6 +38,11 @@ body {
   margin-left: 1em;
 }
 
+.header-nav > li ~ li {
+  border-left: 1px solid rgba(0, 0, 0, 0.3);
+  padding-left: 1em;
+}
+
 .header-nav a {
   color: #000;
   font-size: 0.8rem;
@@ -31,11 +51,40 @@ body {
   text-transform: uppercase;
 }
 
+.header-nav a:hover,
+.header-nav a:active {
+  color: #ed6e2f;
+}
+.header-logo:hover,
+.header-logo:active {
+  opacity: 0.5;
+}
+
+.header-nav > li:first-child a {
+  color: #ed6e2f;
+}
+
+.header-nav > li:first-child a:hover {
+  color: #fff;
+}
+
+.header-logo {
+  background-color: #000;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate (-50%, -50%);
+}
+
+
+
 /* HERO STYLES */
 .full-hero {
   background-color: #c7dbfc;
   height: 50vh;
 }
+
+
 
 /* SOCIAL STYLES */
 .social-link {
@@ -63,6 +112,11 @@ body {
 .social-list > li {
   display: inline-block;
   margin: 0 0.5em;
+}
+
+.social-link a:hover,
+.social-link a:active {
+  color: #ed6e2f;
 }
 
 /* BIO STYLES */
