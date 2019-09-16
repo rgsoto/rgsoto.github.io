@@ -55,7 +55,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  font-family: helvetica, arial, sans;
+  font-family: 'Open Sans', helvetica, arial, sans;
 
 }
 .content-container {
@@ -97,6 +97,12 @@ p {
   margin: 0.80em 0;
 
 }
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Raleway', helvetica, sans;
+  font-weight: 100;
+}
+
 
 /* HEADER STYLES */
 .header {
