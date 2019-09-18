@@ -161,7 +161,10 @@ h1,h2,h3,h4,h5,h6 {
 .header-nav > li:first-child a:hover {
   color: #fff;
 }
-
+.mobile-menu-check,
+.show-mobile-menu {
+  display: none;
+}
 /* DROPDOWN STYLES */
 .dropdown {
   position: relative;
@@ -606,8 +609,12 @@ h1,h2,h3,h4,h5,h6 {
   padding: 2vh 1em 0 0;
 }
 .header-nav a,
-.drop-trigger {
-  color: #fff;
+.drop-trigger,
+.show-mobile-menu {
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 .header-nav > li {
   margin-left: 0.25em;
@@ -632,13 +639,10 @@ h1,h2,h3,h4,h5,h6 {
   left: auto;
 }
 /* MOBILE MENU */
-  .mobile-menu-check,
-  .show-mobile-menu {
-    display: none;
-  }
   .show-mobile-menu {
     display: block;
     float: right;
+    font-weight: bold;
     margin-top: 1.5vh
     padding: 1.5em;
     position: relative;
