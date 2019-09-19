@@ -4,7 +4,7 @@ title: Sustainable Competitive Advantage
 postHero: /images/shark.jpg
 author: Me, Myself, and I
 authorTwitter: https://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+gravatar: https://secure.gravatar.com/avatar/39ed91dd0aa09093b77a5e71bd70d7c0
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
