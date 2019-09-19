@@ -3,7 +3,7 @@ layout: post
 title: Sustainable Competitive Advantage
 postHero: /images/shark.jpg
 author: Me, Myself, and I
-authorTwitter: https://twitter.com/mhartl
+authorTwitter: https://twitter.com/renisoto
 gravatar: https://secure.gravatar.com/avatar/39ed91dd0aa09093b77a5e71bd70d7c0
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
