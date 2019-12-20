@@ -67,6 +67,7 @@ body {
 h1 {
   font-size: 7vw;
   margin-top: 0;
+  color: aliceblue;
 }
 
 h2 {
@@ -128,7 +129,7 @@ h1,h2,h3,h4,h5,h6 {
   background-color: #ed6e2f;
 }
 .header-logo img {
-  width: 4.3vh;
+  width: 6.3vh;
 }
 .header-nav {
   float: right;
@@ -346,7 +347,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .hero-home {
   background-image: url(/images/shark.jpg);
-  background-position: center top;
+  background-position: center bottom;
 }
 
 .hero-content {
