@@ -555,7 +555,7 @@ h1,h2,h3,h4,h5,h6 {
 .posts-image {
   background-position: center;
   background-size: cover;
-  height: 6em;
+  height: 10em;
   margin-bottom: 1.5em;
 }
 .post {
