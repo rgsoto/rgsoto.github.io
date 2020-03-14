@@ -34,10 +34,10 @@ Business:
 
 Tech:
 
-    Hacker News
+    [Hacker News](https://example.com)
     The Verge
     Product Hunt
-
+    <a href="http://google.com" </a>
 Art & Science:
 
     99U
