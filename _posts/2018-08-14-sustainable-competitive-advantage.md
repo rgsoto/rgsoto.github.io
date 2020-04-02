@@ -32,4 +32,4 @@ Vulnerability: Once we become good or even excellent at some things, we rarely w
 
 The ability to acquire new skills and knowledge quickly and continually is crucial to success in a world of rapid change. If you don’t currently have the aspiration, self-awareness, curiosity, and vulnerability to be an effective learner, these simple tools can help you get there.
 
-Hope this was useful! Here’s the link to the articleInspiration found here: https://hbr.org/2016/03/learning-to-learn
+Hope this was useful! Here’s the link to the articleInspiration found here: [[https://hbr.org/2016/03/learning-to-learn]]
