@@ -25,29 +25,31 @@ Once I stopped reading reddit, I branched out and started reading things from al
 
 Here are some great sources of information that I look to for inspiration. Note, this list is by no means exhaustive, this should just act as a starting point.
 
-Business:
+<div class="post-content">
+Business: <br>
+    <a href="https://fs.blog/">Farnam Street</a> <br>
+    <a href="https://wsj.com">Wallstreet Journal</a> <br>
+    <a href="https://hbr.org/">Harvard Business Review </a> <br>
+    <a href="https://stratechery.com/">Stratechery</a> <br>
+    <br>
+Tech: <br>
 
-    [Farnam Street](https://farnamstreet.com)
-    Wallstreet Journal
-    Harvard Business Review
-    Stratechery
+    <a href="https://news.ycombinator.com">Hacker News</a> <br>
+    <a href="https://theverge.com">The Verge</a> <br>
+    <a href="https://producthunt.com">Product Hunt</a> <br>
+    <a href="https://news.ycombinator.com">Hacker News</a> <br>
+    <a href="https://assemble.io">Assemble</a> <br>
 
-Tech:
+    <br>
+Art & Science: <br>
 
-    [Hacker News](https://example.com)
-    The Verge
-    Product Hunt
-    [Assemble](http://assemble.io)
-    http://google.com
-    <a id="contact_form"></a>
+  <a href="https://99u.adobe.com/"> 99U</a> <br>
+  <a href="https://www.brainpickings.org/"> Brain Pickings</a> <br>
+  <a href="http://nautil.us/">  Nautilus </a> <br>
 
-Art & Science:
+  <br>
+History: <br>
+  <a href="https://www.dancarlin.com/"> Hardcore History </a> <br>
+  <a href="https://www.laphamsquarterly.org/"> Lapham's Quarterly </a> <br>
 
-    99U
-    Brain Pickings
-    Nautilus
-
-History:
-
-    Hardcore History (Podcast)
-    Lapham's Quarterly
+</div>
