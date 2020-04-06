@@ -67,7 +67,8 @@ body {
 h1 {
   font-size: 7vw;
   margin-top: 0;
-  color: aliceblue;
+  color: black;
+  font-weight: bold;
 }
 
 h2 {
